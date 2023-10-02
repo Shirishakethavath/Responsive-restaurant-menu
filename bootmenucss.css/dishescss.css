@@ -1,0 +1,47 @@
+#shadowbox{
+    box-shadow: 0 1px 2px 0 #e1e5ea;
+    background: #fefbfb;
+ }
+.menuheader{
+   padding-top:10px;
+   color:black;
+}
+#falogo{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+}
+#falogo i{
+    padding-top:10px;
+    font-size:20px;
+}
+.text{
+    margin:auto;
+}
+.menu-items{
+    width:80%;
+    margin:auto;
+}
+.items{
+    width:240px;
+    height:275px;
+    background-color: #fefbfb;
+    box-shadow: 0 1px 2px 0 #e1e5ea;
+    border-radius:4px;
+}
+.restroimg img{
+    padding:15px 0px;
+}
+.menuheader a{
+    text-decoration: none;
+    padding:10px 13px;
+    font-size: 14px;
+    color:black;
+    text-transform: uppercase;
+    font-weight: 500;
+    }
+    .menuheader a:hover{
+        background-color: goldenrod;
+        color:white;
+        border-radius: 4px;
+    }
